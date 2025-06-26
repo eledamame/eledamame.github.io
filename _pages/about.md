@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-*welcome to my github site*
+*~ welcome to my github site ~*
 
 My name is Eleanor and I am currently wrapping up my PhD in Microbiology in the [Taga Lab](https://tagalab.berkeley.edu/) in the Plant and Microbial Biology Department at UC Berkeley.
 
