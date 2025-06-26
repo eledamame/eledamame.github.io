@@ -22,9 +22,9 @@ repository               : "eledamame/eledamame.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "20230711_133737.jpg"
   name             : "eleanor wang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "they/any"  
   bio              : "5th year Microbiology PhD Candidate"
   location         : "Berkeley, CA"
   employer         : "UC Berkeley"
