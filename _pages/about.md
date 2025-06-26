@@ -14,6 +14,6 @@ In no particular order, my interests include intersectional climate justice, mic
 
 ### a couple of notes
 
-This web portfolio is still under construction... how embarrassing! Thanks for being here, though--if you'd like to contact me my email link in the side bar should work.
+This web portfolio is still under construction... how embarrassing! Thanks for being here, though--if you'd like to contact me my email link in the side bar should work. I'd be more than happy to send you examples of my work or answer questions about myself.
 
 In the meantime, this template is from [academicpages](https://academicpages.github.io/) but I'm doing my best to slowly incorporate my own personality and taste into the site!
